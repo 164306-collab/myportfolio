@@ -10,3 +10,10 @@ target="_blank">
 <button> เหตุผลและแรงบันบาลใจ
  📍 </button>
 </a>
+
+<a href="https://https://drive.google.com/file/d/1G8IkAHXedL0sLertLP8y0Mqp5-hJcHAz/view?usp=sharing"
+target="_blank">
+<button> ใบแสดงผลการเรียน
+ 📍 </button>
+</a>
+
